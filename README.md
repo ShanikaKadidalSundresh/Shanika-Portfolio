@@ -3,7 +3,7 @@
 Live Demo:  
 https://shanika-portfolio.netlify.app/
 
----
+
 
 Personal portfolio website showcasing my work in Data Science, Machine Learning, and AI.
 
@@ -14,7 +14,6 @@ Personal portfolio website showcasing my work in Data Science, Machine Learning,
 - Lucide React Icons
 - Netlify (Deployment)
 
----
 
 ## Run Locally
 
